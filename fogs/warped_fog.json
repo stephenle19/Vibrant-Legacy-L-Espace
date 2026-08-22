@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "legacy:warped_fog"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 40,
+        "fog_end": 400,
+        "fog_color": "#006464",
+        "render_distance_type": "fixed"
+      }
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.065,
+          "uniform": true
+        },
+        "weather": {
+          "max_density": 0.128,
+          "uniform": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:lighting_settings": {
+    "description": {
+      "identifier": "legacy:warped_lighting"
+    },
+    "directional_lights": {
+      "orbital": {
+        "sun": {
+          "illuminance": {
+            "0.000000": 90
+          },
+          "color": {
+            "0.000000": [255, 235, 215]
+          }
+        },
+        "moon": {
+          "illuminance": {
+            "0.000000": 0.5
+          },
+          "color": {
+            "0.000000": [60, 100, 255]
+          }
+        }
+      }
+    },
+    "emissive": {
+      "desaturation": 0
+    },
+    "ambient": {
+      "color": "#006464",
+      "illuminance": 0.2
+    },
+    "sky": {
+      "intensity": 0.45
+    }
+  }
+}

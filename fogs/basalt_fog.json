@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "legacy:basalt_fog"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 40,
+        "fog_end": 400,
+        "fog_color": "#646464",
+        "render_distance_type": "fixed"
+      }
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.065,
+          "uniform": true
+        },
+        "weather": {
+          "max_density": 0.128,
+          "uniform": true
+        }
+      }
+    }
+  }
+}
