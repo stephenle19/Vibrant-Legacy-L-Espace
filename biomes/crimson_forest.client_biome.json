@@ -20,10 +20,10 @@
         "color_grading_identifier": "legacy:hell_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "legacy:hell_lighting"
+        "lighting_identifier": "legacy:crimson_lighting"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "legacy:hell_atmospherics"
+        "atmosphere_identifier": "legacy:crimson_atmospherics"
       }
     }
   }

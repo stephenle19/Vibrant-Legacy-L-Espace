@@ -2,7 +2,7 @@
   "format_version": "1.21.70",
   "minecraft:lighting_settings": {
     "description": {
-      "identifier": "legacy:hell_lighting"
+      "identifier": "legacy:crimson_lighting"
     },
     "directional_lights": {
       "sun": {
@@ -27,7 +27,7 @@
     },
     "ambient": {
       "illuminance": 1.75,
-      "color": [100, 45, 0]
+      "color": [100, 30, 0]
     },
     "sky": {
       "intensity": 0.45

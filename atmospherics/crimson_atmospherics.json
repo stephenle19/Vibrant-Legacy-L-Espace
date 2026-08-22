@@ -2,13 +2,13 @@
   "format_version": "1.21.40",
   "minecraft:atmosphere_settings": {
     "description": {
-      "identifier": "legacy:soul_atmospherics"
+      "identifier": "legacy:crimson_atmospherics"
     },
     "sky_zenith_color": {
-      "0.000000": [80, 100, 135]
+      "0.000000": [100, 30, 0]
     },
     "sky_horizon_color": {
-      "0.000000": [80, 100, 135]
+      "0.000000": [100, 30, 0]
     },
     "rayleigh_strength": {
       "0.000000": 5.5

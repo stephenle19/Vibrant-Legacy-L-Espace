@@ -5,13 +5,13 @@
       "identifier": "legacy:end_atmospherics"
     },
     "sky_zenith_color": {
-      "0.000000": [20, 25, 80]
+      "0.000000": [40, 25, 80]
     },
     "sky_horizon_color": {
-      "0.000000": [5, 10, 50]
+      "0.000000": [20, 5, 50]
     },
     "rayleigh_strength": {
-      "0.000000": 5.5
+      "0.000000": 1
     },
     "sun_mie_strength": {
       "0.000000": 0.0

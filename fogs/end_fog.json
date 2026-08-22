@@ -2,7 +2,7 @@
   "format_version": "1.21.90",
   "minecraft:fog_settings": {
     "description": {
-      "identifier": "legacy:forest_fog"
+      "identifier": "legacy:end_fog"
     },
     "volumetric": {
       "density": {

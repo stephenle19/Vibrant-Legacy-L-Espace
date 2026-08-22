@@ -9,7 +9,7 @@
         "sky_color": "#000000"
       },
       "minecraft:fog_appearance": {
-        "fog_identifier": "legacy:forest_fog"
+        "fog_identifier": "legacy:end_fog"
       },
       "minecraft:water_appearance": {
         "surface_color": "#62529e"

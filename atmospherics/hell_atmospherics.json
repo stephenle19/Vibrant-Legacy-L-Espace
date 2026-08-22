@@ -5,27 +5,19 @@
       "identifier": "legacy:hell_atmospherics"
     },
     "sky_zenith_color": {
-      "0.000000": [100, 0, 0]
+      "0.000000": [100, 45, 0]
     },
     "sky_horizon_color": {
-      "0.000000": [100, 0, 0]
+      "0.000000": [100, 45, 0]
     },
     "rayleigh_strength": {
       "0.000000": 5.5
     },
     "horizon_blend_stops": {
-      "min": {
-        "0.000000": 0.65
-      },
-      "start": {
-        "0.000000": 0.7
-      },
-      "mie_start": {
-        "0.000000": 0.5
-      },
-      "max": {
-        "0.000000": 0.85
-      }
+      "min": 0.65,
+      "start": 0.7,
+      "mie_start": 1,
+      "max": 0.85
     }
   }
 }
