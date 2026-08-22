@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraft:fog_cherry_grove"
+        "fog_identifier": "legacy:cherry_fog"
       },
       "minecraft:water_appearance": {
         "surface_color": "#5db7ef"
@@ -16,6 +16,9 @@
       },
       "minecraft:grass_appearance": {
         "color": "#b6db61"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "legacy:cherry_lighting"
       }
     }
   }

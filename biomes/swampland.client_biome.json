@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraft:fog_swampland"
+        "fog_identifier": "legacy:swamp_fog"
       },
       "minecraft:water_appearance": {
         "surface_color": "#4c6559",
@@ -24,6 +24,12 @@
       },
       "minecraft:dry_foliage_color": {
         "color": "#7B5334"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "legacy:swamp_color_grading"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "legacy:swamp_lighting"
       }
     }
   }
