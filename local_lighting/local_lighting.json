@@ -10,7 +10,7 @@
       "light_type": "static_light"
     },
     "minecraft:gray_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#808080",
       "light_type": "static_light"
     },
     "minecraft:redstone_torch": {
@@ -18,11 +18,11 @@
       "light_type": "static_light"
     },
     "minecraft:pink_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#FF007F",
       "light_type": "static_light"
     },
     "minecraft:brown_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#8B4513",
       "light_type": "static_light"
     },
     "minecraft:soul_torch": {
@@ -38,15 +38,15 @@
       "light_type": "static_light"
     },
     "minecraft:pink_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#FF007F",
       "light_type": "static_light"
     },
     "minecraft:brown_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#8B4513",
       "light_type": "static_light"
     },
     "minecraft:white_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#FFFFFF",
       "light_type": "static_light"
     },
     "minecraft:orange_candle_cake": {
@@ -62,63 +62,63 @@
       "light_type": "static_light"
     },
     "minecraft:cyan_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#00FFFF",
       "light_type": "static_light"
     },
     "minecraft:magenta_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#FF00FF",
       "light_type": "static_light"
     },
     "minecraft:green_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#00FF00",
       "light_type": "static_light"
     },
     "minecraft:light_blue_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#00BFFF",
       "light_type": "static_light"
     },
     "minecraft:yellow_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#FFD700",
       "light_type": "static_light"
     },
     "minecraft:lime_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#7FFF00",
       "light_type": "static_light"
     },
     "minecraft:light_gray_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#D3D3D3",
       "light_type": "static_light"
     },
     "minecraft:light_gray_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#D3D3D3",
       "light_type": "static_light"
     },
     "minecraft:cyan_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#00FFFF",
       "light_type": "static_light"
     },
     "minecraft:purple_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#9900FF",
       "light_type": "static_light"
     },
     "minecraft:magenta_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#FF00FF",
       "light_type": "static_light"
     },
     "minecraft:green_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#00FF00",
       "light_type": "static_light"
     },
     "minecraft:blue_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#0044FF",
       "light_type": "static_light"
     },
     "minecraft:red_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#FF0000",
       "light_type": "static_light"
     },
     "minecraft:black_candle": {
-      "light_color": "#FF6600",
+      "light_color": "#333333",
       "light_type": "static_light"
     },
     "minecraft:candle_cake": {
@@ -126,39 +126,39 @@
       "light_type": "static_light"
     },
     "minecraft:gray_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#808080",
       "light_type": "static_light"
     },
     "minecraft:white_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#FFFFFF",
       "light_type": "static_light"
     },
     "minecraft:light_blue_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#00BFFF",
       "light_type": "static_light"
     },
     "minecraft:yellow_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#FFD700",
       "light_type": "static_light"
     },
     "minecraft:lime_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#7FFF00",
       "light_type": "static_light"
     },
     "minecraft:purple_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#9900FF",
       "light_type": "static_light"
     },
     "minecraft:blue_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#0044FF",
       "light_type": "static_light"
     },
     "minecraft:red_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#FF0000",
       "light_type": "static_light"
     },
     "minecraft:black_candle_cake": {
-      "light_color": "#FF6600",
+      "light_color": "#333333",
       "light_type": "static_light"
     }
   }
