@@ -160,6 +160,26 @@
     "minecraft:black_candle_cake": {
       "light_color": "#333333",
       "light_type": "static_light"
+    },
+    "minecraft:campfire": {
+      "light_color": "#FF6600",
+      "light_type": "static_light"
+    },
+    "minecraft:fire": {
+      "light_color": "#FF6600",
+      "light_type": "static_light"
+    },
+    "minecraft:soul_fire": {
+      "light_color": "#00FFFF",
+      "light_type": "static_light"
+    },
+    "minecraft:soul_campfire": {
+      "light_color": "#00FFFF",
+      "light_type": "static_light"
+    },
+    "minecraft:lava": {
+      "light_color": "#FF6600",
+      "light_type": "static_light"
     }
   }
 }
