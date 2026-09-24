@@ -1,0 +1,50 @@
+{
+  "format_version": "1.26.20",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "legacy:taiga_fog"
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": {
+            "0.000000": 0.065,
+            "0.147989": 0.07,
+            "0.180811": 0.075,
+            "0.216944": 0.08,
+            "0.242908": 0.085,
+            "0.269504": 0.065,
+            "0.314561": 0.065,
+            "0.506998": 0.065,
+            "0.747949": 0.085,
+            "0.789887": 0.08,
+            "0.827878": 0.075,
+            "0.938977": 0.07,
+            "1.000000": 0.065
+          },
+          "zero_density_height": 200,
+          "max_density_height": 50,
+          "uniform": false
+        },
+        "weather": {
+          "max_density": 0.128,
+          "uniform": true
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [0.035, 0.035, 0.035],
+          "absorption": [0.033, 0.011, 0.022]
+        }
+      },
+      "henyey_greenstein_g": {
+        "air": {
+          "henyey_greenstein_g": 0.65
+        },
+        "water": {
+          "henyey_greenstein_g": 0.3
+        }
+      }
+    }
+  }
+}

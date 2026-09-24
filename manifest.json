@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vibrant Legacy L’Espace 0.0.6",
+    "description": "Vibrant Legacy L’Espace is an open-source project of my Vibrant Legacy series!",
+    "uuid": "3b284e4b-2cb0-4556-bac3-08a4a9fe356b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "By Stephen_Le",
+      "type": "resources",
+      "uuid": "9b1fb6ee-4dce-4049-8d0d-aeac0158951f",
+      "version": [1, 0, 0]
+    }
+  ],
+  "capabilities": ["pbr"]
+}
