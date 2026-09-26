@@ -5,10 +5,10 @@
       "identifier": "legacy:soul_atmospherics"
     },
     "sky_zenith_color": {
-      "0.000000": [85, 100, 135]
+      "0.000000": [85, 105, 135]
     },
     "sky_horizon_color": {
-      "0.000000": [85, 100, 135]
+      "0.000000": [85, 105, 135]
     },
     "rayleigh_strength": {
       "0.000000": 5.5
