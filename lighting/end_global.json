@@ -22,7 +22,9 @@
             "0.000000": [0, 0, 0]
           }
         },
-        "orbital_offset_degrees": 0
+        "orbital_offset_degrees": {
+          "0.0": 30
+        }
       },
       "flash": {
         "illuminance": 20,
