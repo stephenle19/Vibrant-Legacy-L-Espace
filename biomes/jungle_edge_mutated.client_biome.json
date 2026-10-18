@@ -15,7 +15,7 @@
         "color_grading_identifier": "legacy:jungle_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "legacy:jungle_lighting"
+        "lighting_identifier": "legacy:taiga_lighting"
       }
     }
   }

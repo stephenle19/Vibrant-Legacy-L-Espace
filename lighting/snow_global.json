@@ -50,7 +50,9 @@
             "0.000000": [60, 100, 255]
           }
         },
-        "orbital_offset_degrees": 30
+        "orbital_offset_degrees": {
+          "0.0": 30
+        }
       },
       "flash": {
         "illuminance": 20,

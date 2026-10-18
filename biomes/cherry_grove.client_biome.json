@@ -16,9 +16,6 @@
       },
       "minecraft:grass_appearance": {
         "color": "#b6db61"
-      },
-      "minecraft:lighting_identifier": {
-        "lighting_identifier": "legacy:cherry_lighting"
       }
     }
   }

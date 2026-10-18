@@ -14,9 +14,6 @@
       },
       "minecraft:color_grading_identifier": {
         "color_grading_identifier": "legacy:desert_color_grading"
-      },
-      "minecraft:lighting_identifier": {
-        "lighting_identifier": "legacy:desert_lighting"
       }
     }
   }
