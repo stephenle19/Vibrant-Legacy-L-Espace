@@ -5,7 +5,7 @@
     "description": "Vibrant Legacy L’Espace is an open-source project of my Vibrant Legacy series!",
     "uuid": "2b01fd16-1986-4e63-8843-0a7a5ed9e637",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 0]
+    "min_engine_version": [1, 21, 120]
   },
   "modules": [
     {
