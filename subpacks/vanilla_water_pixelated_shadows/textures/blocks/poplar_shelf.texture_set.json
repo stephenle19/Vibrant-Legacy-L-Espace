@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "poplar_shelf",
+    "metalness_emissive_roughness": "poplar_shelf_mer",
+    "normal": "poplar_shelf_n"
+  }
+}

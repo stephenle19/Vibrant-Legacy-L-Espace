@@ -1,0 +1,51 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vibrant Legacy L’Espace V0.0.9",
+    "description": "Vibrant Legacy L’Espace is an open-source project of my Vibrant Legacy series!",
+    "uuid": "2b01fd16-1986-4e63-8843-0a7a5ed9e637",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 120]
+  },
+  "modules": [
+    {
+      "description": "By Stephen_Le",
+      "type": "resources",
+      "uuid": "676a355e-51f1-4cc6-b6e6-7405593a56b0",
+      "version": [1, 0, 0]
+    }
+  ],
+  "capabilities": ["pbr"],
+  "subpacks": [
+    {
+      "folder_name": "wavy_water_soft_shadows",
+      "name": "PBR + Wavy Water + Soft Shadows",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "vanilla_water_soft_shadows",
+      "name": "PBR + No Waving Water + Soft Shadows",
+      "memory_tier": 2
+    },
+    {
+      "folder_name": "no_pbr_soft_shadows",
+      "name": "No PBR + Soft Shadows",
+      "memory_tier": 3
+    },
+    {
+      "folder_name": "wavy_water_pixelated_shadows",
+      "name": "PBR + Wavy Water + Pixelated Shadows",
+      "memory_tier": 4
+    },
+    {
+      "folder_name": "vanilla_water_pixelated_shadows",
+      "name": "PBR + No Waving Water + Pixelated Shadows",
+      "memory_tier": 5
+    },
+    {
+      "folder_name": "no_pbr_pixelated_shadows",
+      "name": "No PBR + Pixelated Shadows",
+      "memory_tier": 6
+    }
+  ]
+}
