@@ -7,7 +7,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.095,
+          "max_density": 0.1,
           "uniform": true
         },
         "weather": {

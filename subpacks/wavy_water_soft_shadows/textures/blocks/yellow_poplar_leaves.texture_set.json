@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "yellow_poplar_leaves",
-    "metalness_emissive_roughness": "yellow_poplar_leaves_mer",
-    "normal": "yellow_poplar_leaves_n"
-  }
-}

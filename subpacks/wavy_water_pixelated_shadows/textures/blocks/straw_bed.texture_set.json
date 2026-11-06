@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "straw_bed",
-    "metalness_emissive_roughness": "straw_bed_mer",
-    "normal": "straw_bed_n"
-  }
-}

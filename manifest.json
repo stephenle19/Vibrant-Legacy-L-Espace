@@ -18,34 +18,19 @@
   "capabilities": ["pbr"],
   "subpacks": [
     {
-      "folder_name": "wavy_water_soft_shadows",
-      "name": "PBR + Wavy Water + Soft Shadows",
+      "folder_name": "wavy_water_pbr",
+      "name": "PBR + Wavy Water",
       "memory_tier": 1
     },
     {
-      "folder_name": "vanilla_water_soft_shadows",
-      "name": "PBR + No Waving Water + Soft Shadows",
+      "folder_name": "vanilla_water_pbr",
+      "name": "PBR + No Waving Water",
       "memory_tier": 2
     },
     {
-      "folder_name": "no_pbr_soft_shadows",
-      "name": "No PBR + Soft Shadows",
+      "folder_name": "no_pbr",
+      "name": "No PBR",
       "memory_tier": 3
-    },
-    {
-      "folder_name": "wavy_water_pixelated_shadows",
-      "name": "PBR + Wavy Water + Pixelated Shadows",
-      "memory_tier": 4
-    },
-    {
-      "folder_name": "vanilla_water_pixelated_shadows",
-      "name": "PBR + No Waving Water + Pixelated Shadows",
-      "memory_tier": 5
-    },
-    {
-      "folder_name": "no_pbr_pixelated_shadows",
-      "name": "No PBR + Pixelated Shadows",
-      "memory_tier": 6
     }
   ]
 }
